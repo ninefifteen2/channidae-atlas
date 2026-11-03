@@ -6,6 +6,8 @@
 
 **线上地址：<https://channidae-atlas.pages.dev>**（Cloudflare Pages，部署说明见 `DEPLOY.md`）
 
+**源码仓库：<https://github.com/ninefifteen2/channidae-atlas>**（代码 MIT；图片与数据署名见 `NOTICE.md`）
+
 ---
 
 ## 打开方式
